@@ -1,0 +1,10 @@
+MLflow monitoring active.
+Groq AI client loaded.
+Crop model loaded from C:\Users\subba\OneDrive\Desktop\cp 3\peojectzip\peojectzip\models\crop_recommendation.pkl.
+Disease model loaded.
+ * Serving Flask app 'app'
+ * Debug mode: on
+MLflow monitoring active.
+Groq AI client loaded.
+Crop model loaded from C:\Users\subba\OneDrive\Desktop\cp 3\peojectzip\peojectzip\models\crop_recommendation.pkl.
+Disease model loaded.
